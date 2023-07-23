@@ -17,7 +17,7 @@ class Main {
 	}
 
 	public static void main(String[] args) {
-		int arr[] = { 1000, 11, 445, 1, 330, 3000 };
+		int arr[] = { 1000, 11, 4, 78, 45};
 		int arr_size = arr.length;
 		Pair minmax = getMinMax(arr, arr_size);
 		System.out.println("Minimum element is " + minmax.min);
