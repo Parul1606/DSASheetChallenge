@@ -2,6 +2,7 @@ package DSASheetChallenge.Day1;
 
 import java.util.Arrays;
 
+//find the min n max of the array
 class Pair {
 	public int min;
 	public int max;
